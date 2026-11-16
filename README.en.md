@@ -4,8 +4,6 @@ A Fabric-based mod loader for Minecraft Java **26.3**.
 It sits on top of Fabric Loader (>=0.19.3), translates Quilt mods, and runs NeoForge mods and
 Bukkit-family plugins (plugin.yml format) through limited compatibility layers.
 
-Languages: [日本語](README.md) / English (this file) / [中文](README.zh.md)
-
 ## What it does
 
 At startup (just before Fabric itself starts), it scans `mods/` and decides how to run each jar.
