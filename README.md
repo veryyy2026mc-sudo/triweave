@@ -135,8 +135,7 @@ cleans up its generated copy on the next launch automatically). Manual run:
 
 ## Support / bug reports
 
-Discord: https://discord.gg/ZqDd74CC8B (also reachable from Mod Menu's "Website"/"Report bug"
-links)
+Discord: https://discord.gg/Fd6Q9DWgFb
 
 > Note: the `/mod` command and the NeoForge compatibility layer depend on Minecraft's classes, so
 > `gradle build` will not work with this Gradle setup as-is (it would need something like Loom to
